@@ -45,16 +45,6 @@ Apache Kafka · Apache Spark · Docker · GitHub Actions · AWS
 **Frontend**  
 React · JavaScript · Tailwind CSS
 
----
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=namit-surana&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namit-surana&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165" />
-</p>
-
----
 
 ## Connect
 
